@@ -1,4 +1,2 @@
 I love battier
-<<<<<<< HEAD
-you are a sb
->>>>>>> feature1
+you are sb
